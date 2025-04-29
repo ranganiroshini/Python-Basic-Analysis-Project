@@ -3,7 +3,7 @@
 Hi, I'm **Roshini Rangani**, Studying Masters in Data Analytics, in USA ,As very passionate about data one day when i wokeup i got idea to showcase my journey to become a data analyst,so here i'm so started working on python and i build this little guide for people like me!
 
 When I started this project, I had **very basic knowledge of Python**.  
-I created this project mainly for people like me — those who are **beginners** but want to **become Data Analysts**.
+I created this project mainly for people like me those who are **beginners** but want to **become Data Analysts**.
 
 If you are just starting your Python journey, this project will really help you understand:
 - How Python is used in real-world data analysis
