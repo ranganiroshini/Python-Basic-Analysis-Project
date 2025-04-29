@@ -19,27 +19,27 @@ Here’s what I did:
 - Created beautiful **bar charts, line plots, scatter plots, and heatmaps**
 - Built a **Sales Forecasting Model** to predict future sales
 - Created an **Interactive Dashboard** using Plotly to summarize key insights
----
+
 ## Dataset Details
 - **Dataset Name:** Sample Superstore Dataset
 - **Source:** Kaggle Public Dataset
 - **Description:** This dataset includes customer orders, sales, profits, discounts, shipping details, and regional information.
 - **Size:** 10,000+ records
----
+
 ## Key Findings
 
 - The **Consumer segment** brought in the highest sales and profits, making it the most valuable group for the business.
 - The **Corporate segment** showed moderate performance in both sales and profit.
 - The **Home Office segment** contributed the least, highlighting opportunities for better engagement or marketing efforts.
 
----
+
 ## Visualizations and Dashboard
 
 Since GitHub and LinkedIn don't directly support interactive Plotly dashboards,  
 I have shared a screenshot of the dashboard below for easy viewing:
 
 [View Dashboard Screenshot Here](https://github.com/ranganiroshini/Python-Basic-Analysis-Project/blob/main/dashboard.png)
----
+
 ## 🛠Skills Used
 - Python Programming
 - Pandas for data cleaning
@@ -47,7 +47,7 @@ I have shared a screenshot of the dashboard below for easy viewing:
 - Plotly for interactive dashboards
 - Statsmodels for forecasting
 - Scikit-learn for basic predictive modeling
----
+  
 ## Conclusion
 Through this project, I learned how to:
 - Work with real-world messy datasets
@@ -57,7 +57,7 @@ Through this project, I learned how to:
 
 If you are starting your data analytics journey,  
 I hope this project gives you a **clear learning path** just like it did for me!
----
+
 ## Thank You
 Thank you for visiting my project!  
 I’m continuously learning and improving.  
