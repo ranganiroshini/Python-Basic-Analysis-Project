@@ -38,7 +38,7 @@ Here’s what I did:
 Since GitHub and LinkedIn don't directly support interactive Plotly dashboards,  
 I have shared a screenshot of the dashboard below for easy viewing:
 
-[📸 View Dashboard Screenshot Here](https://github.com/ranganiroshini/Python-Basic-Analysis-Project/blob/main/dashboard.png)
+[View Dashboard Screenshot Here](https://github.com/ranganiroshini/Python-Basic-Analysis-Project/blob/main/dashboard.png)
 ---
 ## 🛠Skills Used
 - Python Programming
@@ -56,9 +56,9 @@ Through this project, I learned how to:
 - Create professional dashboards
 
 If you are starting your data analytics journey,  
-I hope this project gives you a **clear learning path** just like it did for me! 🌟
+I hope this project gives you a **clear learning path** just like it did for me!
 ---
 ## Thank You
 Thank you for visiting my project!  
 I’m continuously learning and improving.  
-Feedback and suggestions are always welcome! 🚀
+Feedback and suggestions are always welcome! 
